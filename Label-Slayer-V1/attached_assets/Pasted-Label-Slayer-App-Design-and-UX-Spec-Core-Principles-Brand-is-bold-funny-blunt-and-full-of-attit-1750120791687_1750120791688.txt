@@ -1,0 +1,165 @@
+Label Slayer App – Design and UX Spec
+Core Principles
+Brand is bold, funny, blunt, and full of attitude (Leon from Curb Your Enthusiasm vibes)
+
+App is fast, visually dynamic, and highly interactive
+
+No stock or boring elements; everything should look and feel custom
+
+Every piece of copy is Leon-style: direct, energetic, sometimes funny, never corporate
+
+Overall Theme
+Dark mode by default with high-contrast pops of neon (orange, green, red, yellow)
+
+Rounded, bold cards for key content; soft glowing shadows under CTAs and major sections
+
+Micro-animations: Nothing appears statically. Elements bounce, slide, or “slash” in
+
+Custom mascot (Leon-inspired, not a direct copy): Reacts to user actions and appears on key screens with expressions (smug, disappointed, impressed, etc.)
+
+Pages & Key Components
+1. Onboarding / Welcome
+Big logo
+
+Leon-style greeting: “Alright, playa, ready to see what’s really in your food?”
+
+Quick description of how the app works, with comic-style graphics
+
+“Let’s get started!” button (bouncy entrance, glowing effect)
+
+2. Home Page
+Logo and App Name at the top with a subtle glow/shadow
+
+Tagline: “Let’s see what kind of BS they’re sneaking into your food.”
+
+Instant Analysis Card:
+
+Gradient background (orange to yellow)
+
+Lightning bolt or “slashing” animation when loading
+
+Copy:
+
+“AI so smart, it’ll call out your food like it owes you money.”
+
+Stats:
+
+99% Accuracy
+
+2s Speed (add playful line: “Faster than your ex ghosting you”)
+
+Big CTA Button:
+
+“Bust That Label” or “Roast a Label”
+
+Button animates (wiggle, slight “pulse” effect)
+
+Instruction below:
+
+“Snap a pic. I’ll break it down. No sugar-coating (unless it’s in the ingredients).”
+
+3. Scan / Analyze Label Flow
+Camera interface with bold borders, easy-to-read instructions, and mascot peeking from the corner
+
+After scanning:
+
+Quick animation of the label being “slashed” or “exploded” on screen
+
+Loading: Mascot gives a snarky waiting message: “Hold up, running the numbers…”
+
+Result:
+
+Big health score badge (color-coded: Green/Yellow/Red)
+
+Mascot reaction (emoji or cartoon face, changes by score)
+
+Leon-style roast/explanation:
+
+Good: “Alright, look at you, making good choices!”
+
+Bad: “Bruh, you really wanna put this in your body?”
+
+Mid: “You can do better, but I ain’t judging… yet.”
+
+“Full breakdown” button: show ingredient list, dangerous ones highlighted, each with mascot commentary (“Sodium through the roof!” etc.)
+
+4. History Page
+Title: “What You’ve Been Smashing (Or Getting Smashed By)”
+
+Subheader: “All the labels you called out—good, bad, and ugly.”
+
+Each item in list:
+
+Custom icon/cartoon for product (no generic stock icons)
+
+Product name and time scanned
+
+Big, bold health score badge (animated bounce on appearance)
+
+Under each: Leon-style quote/roast (“Clean as a whistle, playa.” / “This is sodium in a cup, dawg.”)
+
+Mascot face/emojis change based on health score (😎, 🤦🏾, 😒, etc.)
+
+Swipe left to delete (mascot says: “Yeah, trash that mistake.”)
+
+Swipe right to favorite (mascot: “Bookmarking this winner!”)
+
+If empty:
+
+“You haven’t roasted any food yet, playa. Get to work!”
+
+5. Detailed Label Analysis (Tap any History Item)
+Full ingredient breakdown with highlighted “problem” ingredients
+
+Each has a mascot comment:
+
+“Maltodextrin? That’s a no from me.”
+
+“A little sugar never hurt, but damn, that’s a lot.”
+
+Suggest alternatives (with Leon attitude): “Maybe try something with less sodium next time. I’m just sayin’.”
+
+6. About Page
+Quick, playful description of the app’s mission
+
+Brand voice, not corporate: “We made this app so you don’t get played by food companies. No BS, just facts—and a little roast.”
+
+Mascot in a “wise” pose, giving a final tip
+
+Visual/UX Features Checklist
+Custom icons and illustrations (no stock)
+
+Mascot reactions everywhere (animated or at least expressive static faces)
+
+Bold neon color palette (black background, glowing orange, neon green/red/yellow)
+
+Micro-animations: buttons bounce, results pop, mascot reacts to touch/swipes
+
+All copy is Leon-style: direct, blunt, with attitude
+
+Contrast and readability: All text passes accessibility checks, but never looks boring
+
+Reward/Fun Features (Optional, but will stand out)
+Streaks for healthy choices (“Streak! Three healthy foods in a row—you’re on a roll, playa!”)
+
+Badges for scanning certain numbers or types of foods (“Sugar Slayer,” “Sodium Detective”)
+
+Shareable roast cards: Let users share their funniest/harshest results to socials
+
+Sample Component Library (if needed)
+Custom Health Score Badge (animated)
+
+Mascot avatar with changeable expressions
+
+Product Card (with custom icons, bold text, roast line, swipe actions)
+
+Animated CTA button
+
+Ingredient Danger List (with mascot reactions per item)
+
+Design References
+Apps: Duolingo (mascot energy), Yuka (label scanning clarity), TikTok (high contrast, movement)
+
+Animation: Subtle but fun, not overwhelming
+
+Humor: Think Leon. If in doubt, ask “Would Leon say this? Or is this some corporate HR nonsense?”
